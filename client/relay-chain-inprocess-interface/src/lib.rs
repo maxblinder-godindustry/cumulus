@@ -352,6 +352,7 @@ fn build_polkadot_full_node(
 			true,
 			polkadot_service::RealOverseerGen,
 			None,
+			None,
 			hwbench,
 		)?;
 
